@@ -1,29 +1,69 @@
 [
-    {
-        "id": "1",
-        "title": "Learning Singleton Pattern",
-        "description": "I would like to learn singleton in JS language, it's important for my work",
-        "link": "https://link.com",
-        "priority": 3,
-        "timeToFinish": 120,
-        "status": "inactive"
-        },
-        {
-        "id": "2",
-        "title": "Resource 2",
-        "description": "Resource 2 Desc",
-        "link": "https://link.com",
-        "priority": 2,
-        "timeToFinish": 60,
-        "status": "inactive"
-        },
-        {
-        "id": "3",
-        "title": "Resource 3",
-        "description": "Resource 3 Desc",
-        "link": "https://link.com",
-        "priority": 1,
-        "timeToFinish": 30,
-        "status": "inactive"
-    }
+  {
+    "title": "Törzs információk",
+    "description": "aasd",
+    "link": "asd",
+    "priority": "3",
+    "timeToFinish": 60,
+    "createdAt": "2021-07-12T13:20:40.496Z",
+    "status": "inactive",
+    "id": "1626096040496"
+  },
+  {
+    "title": "Title3",
+    "description": "Description3",
+    "link": "link3",
+    "priority": "3",
+    "timeToFinish": "601",
+    "createdAt": "2021-07-12T11:18:42.228Z",
+    "status": "inactive",
+    "id": "1626088722228"
+  },
+  {
+    "id": "1",
+    "title": "Learning Singleton Pattern",
+    "description": "I would like to learn singleton in JS language, it's important for my work",
+    "link": "https://link.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "inactive"
+  },
+  {
+    "id": "2",
+    "title": "Resource 2",
+    "description": "Resource 2 Desc",
+    "link": "https://link.com",
+    "priority": 2,
+    "timeToFinish": 60,
+    "status": "inactive"
+  },
+  {
+    "id": "3",
+    "title": "Resource 3",
+    "description": "Resource 3 Desc",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive"
+  },
+  {
+    "title": "Title",
+    "description": "Description",
+    "link": "link",
+    "priority": "1",
+    "timeToFinish": "59",
+    "createdAt": "2021-07-12T11:14:10.523Z",
+    "status": "inactive",
+    "id": "1626088450523"
+  },
+  {
+    "title": "Title2",
+    "description": "Description2",
+    "link": "link2",
+    "priority": "1",
+    "timeToFinish": "59",
+    "createdAt": "2021-07-12T11:15:10.238Z",
+    "status": "inactive",
+    "id": "1626088510238"
+  }
 ]
