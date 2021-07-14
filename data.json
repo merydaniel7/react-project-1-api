@@ -1,69 +1,45 @@
 [
   {
-    "title": "Törzs információk",
-    "description": "aasd",
-    "link": "asd",
+    "title": "Reusable component",
+    "description": "Reusable component",
+    "link": "Reusable component",
     "priority": "3",
-    "timeToFinish": 60,
-    "createdAt": "2021-07-12T13:20:40.496Z",
-    "status": "inactive",
-    "id": "1626096040496"
+    "timeToFinish": "1",
+    "createdAt": "2021-07-13T12:17:08.229Z",
+    "status": "complete",
+    "id": "1626178628229",
+    "activationTime": "2021-07-14T12:41:04.145Z"
   },
   {
-    "title": "Title3",
+    "title": "Title3 3",
     "description": "Description3",
     "link": "link3",
     "priority": "3",
-    "timeToFinish": "601",
+    "timeToFinish": "1",
     "createdAt": "2021-07-12T11:18:42.228Z",
-    "status": "inactive",
-    "id": "1626088722228"
+    "status": "complete",
+    "id": "1626088722228",
+    "activationTime": "2021-07-14T12:43:52.438Z"
   },
   {
     "id": "1",
-    "title": "Learning Singleton Pattern",
+    "title": "Learning Singleton Pattern! UPDATE",
     "description": "I would like to learn singleton in JS language, it's important for my work",
     "link": "https://link.com",
     "priority": 3,
     "timeToFinish": 120,
+    "createdAt": "2021-07-13T12:17:08.229Z",
     "status": "inactive"
   },
   {
     "id": "2",
-    "title": "Resource 2",
+    "title": "Resource 27777",
     "description": "Resource 2 Desc",
     "link": "https://link.com",
     "priority": 2,
-    "timeToFinish": 60,
-    "status": "inactive"
-  },
-  {
-    "id": "3",
-    "title": "Resource 3",
-    "description": "Resource 3 Desc",
-    "link": "https://link.com",
-    "priority": 1,
-    "timeToFinish": 30,
-    "status": "inactive"
-  },
-  {
-    "title": "Title",
-    "description": "Description",
-    "link": "link",
-    "priority": "1",
-    "timeToFinish": "59",
-    "createdAt": "2021-07-12T11:14:10.523Z",
-    "status": "inactive",
-    "id": "1626088450523"
-  },
-  {
-    "title": "Title2",
-    "description": "Description2",
-    "link": "link2",
-    "priority": "1",
-    "timeToFinish": "59",
-    "createdAt": "2021-07-12T11:15:10.238Z",
-    "status": "inactive",
-    "id": "1626088510238"
+    "timeToFinish": 1,
+    "createdAt": "2021-07-13T12:17:08.229Z",
+    "status": "complete",
+    "activationTime": "2021-07-14T13:31:09.116Z"
   }
 ]
