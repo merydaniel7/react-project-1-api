@@ -1,45 +1,54 @@
 [
   {
-    "title": "Reusable component",
-    "description": "Reusable component",
-    "link": "Reusable component",
-    "priority": "3",
+    "title": "Learn foreign language ",
+    "description": "Learn German",
+    "link": "placeholder",
+    "priority": "1",
     "timeToFinish": "1",
-    "createdAt": "2021-07-13T12:17:08.229Z",
+    "createdAt": "2021-03-24T15:12:57.915Z",
     "status": "complete",
-    "id": "1626178628229",
-    "activationTime": "2021-07-14T12:41:04.145Z"
+    "id": "1616598777915",
+    "activationTime": "2021-03-24T15:13:40.775Z"
   },
   {
-    "title": "Title3 3",
-    "description": "Description3",
-    "link": "link3",
-    "priority": "3",
-    "timeToFinish": "1",
-    "createdAt": "2021-07-12T11:18:42.228Z",
+    "title": "Learning Javascript language",
+    "description": "Learn modular and singleton design pattern",
+    "link": "some link",
+    "priority": "2",
+    "timeToFinish": "120",
+    "createdAt": "2021-03-19T12:14:58.007Z",
     "status": "complete",
-    "id": "1626088722228",
-    "activationTime": "2021-07-14T12:43:52.438Z"
+    "id": "1616156098007"
   },
   {
-    "id": "1",
-    "title": "Learning Singleton Pattern! UPDATE",
-    "description": "I would like to learn singleton in JS language, it's important for my work",
-    "link": "https://link.com",
-    "priority": 3,
-    "timeToFinish": 120,
-    "createdAt": "2021-07-13T12:17:08.229Z",
-    "status": "inactive"
+    "title": "Read Book",
+    "description": "Read book obout computer architecture",
+    "link": "another link",
+    "priority": "1",
+    "timeToFinish": 60,
+    "createdAt": "2021-03-19T12:02:16.038Z",
+    "status": "complete",
+    "id": "1616155336038",
+    "activationTime": "2021-03-24T23:57:20.425Z"
   },
   {
-    "id": "2",
-    "title": "Resource 27777",
-    "description": "Resource 2 Desc",
-    "link": "https://link.com",
-    "priority": 2,
-    "timeToFinish": 1,
-    "createdAt": "2021-07-13T12:17:08.229Z",
+    "title": "Reusable components",
+    "description": "Learn how to create reusable components in Angular",
+    "link": "Reusable components NEW UPDATE",
+    "priority": "1",
+    "timeToFinish": "120",
+    "createdAt": "2021-03-19T11:45:29.325Z",
+    "status": "inactive",
+    "id": "1616154329325"
+  },
+  {
+    "title": "Take a nap",
+    "description": "Just take a nap friend, you deserve it!",
+    "link": "Testin save",
+    "priority": "1",
+    "timeToFinish": 60,
+    "createdAt": "2021-03-18T09:28:52.036Z",
     "status": "complete",
-    "activationTime": "2021-07-14T13:31:09.116Z"
+    "id": "1616059732036"
   }
 ]
